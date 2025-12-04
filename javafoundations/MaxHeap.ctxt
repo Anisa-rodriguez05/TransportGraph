@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MaxHeap
+comment0.text=\n\ Defines\ the\ interface\ to\ a\ max\ heap.\n
+comment1.params=obj
+comment1.target=void\ add(java.lang.Comparable)
+comment1.text=\n\ Adds\ the\ specified\ object\ to\ the\ heap.\n\ \n\ @param\ obj\ The\ specified\ object\ to\ be\ added.\ \n
+comment2.params=
+comment2.target=java.lang.Comparable\ getMax()
+comment2.text=\n\ Returns\ a\ reference\ to\ the\ element\ with\ the\ highest\ value\ in\ the\ heap.\n\ \n\ @return\ a\ reference\ to\ the\ element\ with\ the\ highest\ value\ in\ the\ heap.\n
+comment3.params=
+comment3.target=java.lang.Comparable\ removeMax()
+comment3.text=\n\ Removes\ and\ returns\ the\ element\ with\ the\ highest\ value\ in\ the\ heap.\n\ \n\ @return\ the\ element\ with\ the\ highest\ value\ in\ the\ heap.\n
+numComments=4
